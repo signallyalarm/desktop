@@ -7,7 +7,7 @@
     "build": "webpack --config ./webpack.config.js",
     "start": "npm run build && electron ./dist/electron.js"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/signallyalarm/desktop",
   "keywords": [
     "Electron",
     "quick",
