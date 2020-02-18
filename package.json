@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "signally-desktop",
+  "version": "0.0.1",
+  "description": "Desktop App for Signally",
   "main": "main.js",
   "scripts": {
     "build": "webpack --config ./webpack.config.js",
@@ -15,8 +15,7 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Lukas Germerott",
   "devDependencies": {
     "@types/react": "^16.9.17",
     "@types/react-dom": "^16.9.4",
